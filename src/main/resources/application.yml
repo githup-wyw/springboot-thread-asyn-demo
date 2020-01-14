@@ -1,0 +1,7 @@
+
+async:
+  corePoolSize: 10
+  maxPoolSize: 20
+  queueCapacity: 1000
+  keepAliveSeconds : 30
+  threadNamePrefix: wyw-Executor-
